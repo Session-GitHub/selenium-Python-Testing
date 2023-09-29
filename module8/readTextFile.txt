@@ -1,0 +1,5 @@
+Selenium-Python is a very good and easy product.
+Python is a high-level, interpreted programming language known for its simplicity,readability, and versatility.
+Created by Guido van Rossum and first released in 1991,
+Python has gained widespread popularity and is widely used in various domains,
+including web development, scientific computing, data analysis, artificial intelligence, and more.
